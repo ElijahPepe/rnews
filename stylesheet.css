@@ -1,0 +1,28 @@
+.link .title {
+    font-size: 20px;
+    font-family: 'Postoni','PT Serif','Palatino','Georgia',serif;
+}
+
+.tagline {
+    font-size: 0.75rem;
+    font-family: 'Franklin','IBM Plex Sans','Helvetica Neue','Arial',sans-serif;
+}
+
+.tagline a {
+    color: #2375fc;
+}
+
+.thing .title {
+    color: #000;
+}
+    
+.link {
+    border-bottom: 1px solid #e9e9e9;
+    margin-bottom: 10px;
+}
+
+.link .rank {
+    font-size: 1.5rem;
+    margin-top: 10px;
+    font-family: 'Postoni','PT Serif','Palatino','Georgia',serif;
+}
